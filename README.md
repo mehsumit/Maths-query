@@ -1,2 +1,2 @@
 # Maths-query
-Random maths problem generator 
+Random maths problem generator
